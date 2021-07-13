@@ -12,12 +12,12 @@
 - You can use R, Python, SAS Enterprise Miner or any other tool.<br>
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
 - Here is the dataset :
-<a href="https://github.com/bloodstain5201/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/student_scores%20-%20student_scores.csv">Dataset.csv</a><br><br>
+<a href="https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/bloodstain5201/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a>
+<a href="https://github.com/bloodstain5201/TSF_DataScience_Tasks/blob/main/prediction_of_student_marks_based_on_study_hours.py"> Prediction using Supervised ML</a>
 
 >Demo:
-<a href="https://youtu.be/yPUkaPVM2EY">Prediction using Supervised ML</a>
+<a href="https://www.linkedin.com/posts/shivanshgrover_problemabrstatement-gripjuly21-thesparksfoundation-activity-6820565226337959936---5f">Prediction using Supervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Unsupervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -28,12 +28,12 @@
 represent it visually.<br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-<a href="https://github.com/bloodstain5201/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Iris.csv">Dataset.csv</a><br><br>
+<a href="https://bit.ly/3kXTdox">Dataset.csv</a><br><br>
 > Solution:
-<a href="https://github.com/bloodstain5201/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
+<a href="https://github.com/bloodstain5201/TSF_DataScience_Tasks/blob/main/kmeans_clustering_on_iris_dataset.py"> Prediction using UnSupervised ML</a>
 
 > Demo:
-<a href="https://youtu.be/HV0tD0OQF5w">Prediction using Unsupervised ML</a>
+<a href="https://www.linkedin.com/posts/shivanshgrover_task3-gripjuly2021-gripjuly21-activity-6820572834381791232--3BN">Prediction using Unsupervised ML</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
@@ -47,12 +47,12 @@ make more profit.<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/bloodstain5201/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Retail(Dataset).csv">Dataset.csv</a><br><br><br>
+<a href="https://bit.ly/3i4rbWl">Dataset.csv</a><br><br><br>
 > Solution:
-<a href="https://github.com/bloodstain5201/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
+<a href="https://github.com/bloodstain5201/TSF_DataScience_Tasks/blob/main/eda_on_superstore_data.py"> Exploratory Data Analysis-Retail</a>
 
 > Demo:
-<a href="https://youtu.be/tPzOUmbOKnQ">Exploratory Data Analysis-Retail</a>
+<a href="https://www.linkedin.com/posts/shivanshgrover_gripjuly21-datascience-dataanalytics-activity-6820575855715110912-oqhe">Exploratory Data Analysis-Retail</a>
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
